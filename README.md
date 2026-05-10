@@ -1,5 +1,5 @@
 # PERG
-This is the repository containing PERG's build files and latest build.
+This is the repository containing PERG's script files and latest build.
 
 ## What is PERG?
 PERG is a simple rougelike poker game inspired by other games like Balatro, Wildfrost, and Solitarica.
