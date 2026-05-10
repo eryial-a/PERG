@@ -20,3 +20,5 @@ To install, follow these steps:
 ![PERG unzip](https://i.imgur.com/hjhGVGc.png)
 ### 3. Run PERG.exe
 ![PERG.exe](https://i.imgur.com/BUQZRHO.png)
+
+Built using Unity 6000.3.6f1
